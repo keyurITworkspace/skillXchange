@@ -1,6 +1,6 @@
 Odoo-Hackathon
 
-#Problem Statement
+Problem Statement : 
 Skill Swap Platform
 
 
@@ -22,7 +22,7 @@ Ratings or feedback after a swap
 The user is also able to delete the swap request if it is not accepted.
 
 
-#Team Details
+Team Details :
 Name-Tech Tornadoes
 
 Leader name-Keyur Patel
